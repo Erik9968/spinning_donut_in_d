@@ -1,2 +1,2 @@
-# spinning_donut_in_d
+# spinning donut in d
 Spinning donut ported to dlang.
